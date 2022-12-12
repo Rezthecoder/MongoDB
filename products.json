@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "book",
+       "price":1000
+    },
+    {
+        "name" : "Notebook",
+       "price":1000
+    },
+    {
+        "name" : "Copy",
+       "price":1000
+    }
+
+]
